@@ -17,4 +17,4 @@
 
 - **_Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma._**
 
-- Actualmente existe un estándar, denominado ISO C++, al que se han adherido la mayoría de los fabricantes de compiladores más modernos.
+- _Actualmente existe un estándar, denominado ISO C++, al que se han adherido la mayoría de los fabricantes de compiladores más modernos._
