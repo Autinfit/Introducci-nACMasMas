@@ -6,7 +6,7 @@ using namespace std;
 
 // VAMOS A TRABAJAR CON ALGUNAS DE SUS FUNCIONES EN ESTA SECCIÓN DEL MENÚ...
 
-void funcion1(int *a)
+void funcion1(long long* a)
 {
     // PRIMERA FUNCIÓN QUE UTILIZA COMO VARIABLE UNA INCÓGNITA YA DECLARADA CON UN PUNTERO...
 
@@ -32,34 +32,49 @@ int main()
 {
     // ESTA ES LA CLASE DEL MAIN POR DEFECTO.
 
+    // COMO TODO ESTÁ COMENTADO DENTRO DE ESTA FUNCIÓN, VAMOS A PASAR UN ARREGLO COMPLETO DE CADA VECTOR EN NÚMEROS ENTEROS...
+
+    cout << "int: " << sizeof(int) << endl; // DEVUELVE UN ENTERO EN EL PRIMER VECTOR.
+    cout << "long: " << sizeof(long) << endl; // DEVUELVE UN VALOR GRANDE EN EL SEGUNDO VECTOR.
+    cout << "long long: " << sizeof(long long) << endl; // DEVUELVE UN VALOR MUY GRANDE Y DISTANCIADO EN EL TERCER VECTOR.
+    cout << "bool: " << sizeof(bool) << endl; // DEVUELVE UN BOOLEANO EN EL CUARTO VECTOR.
+    cout << "char: " << sizeof(char) << endl; // DEVUELVE UN SÓLO CARÁCTER EN EL QUINTO VECTOR.
+    cout << "string: " << sizeof(string) << endl; // DEVUELVE UNA CADENA DE CARACTERES EN EL SEXTO VECTOR.
+    cout << "float: " << sizeof(float) << endl; // DEVUELVE UN VALOR FLOTANTE (APROXIMACIÓN NUMÉRICA) EN EL SÉPTIMO VECTOR.
+    cout << "double: " << sizeof(double) << endl; // DEVUELVE UN VALOR EN DECIMAL EN EL OCTAVO VECTOR.
+
     // CREAREMOS UN ARREGLO MEDIANTE UN VECTOR CON 10 ELEMENTOS EN TOTAL.
 
-    int vector[10];
+    // long long vector[10];
 
     // LUEGO, LO INICIALIZAREMOS CON DICHO ARREGLO...
 
-    vector[0] = 10;
+    // vector[0] = 10;
 
     // REALIZAREMOS OPERACIONES ALGEBRAICAS EN ESTE MÉTODO.
 
-    int x = 4; // "x" ES IGUAL A 4.
-    /*x++; // INCREMENTA SU VALOR AL PRINCIPIO DE ESTA VARIABLE YA DECLARADA.
+    // int x = 4; // "x" ES IGUAL A 4.
+    /* x++; // INCREMENTA SU VALOR AL PRINCIPIO DE ESTA VARIABLE YA DECLARADA.
     int y = 8; // "y" ES IGUAL A 8.
 
     // PARA PRACTICAR UN POCO CON ESTE LENGUAJE DE PROGRAMACIÓN, VAMOS A CREAR UN CICLO "for".
 
     for (int i = 0; i < 10; i++) // LOS NÚMEROS YA DECLARADOS EN ESTA ITERACIÓN ESTARÁN ENTRE EL 0 Y EL 9.
     {
-        y++; // INCREMENTA SU VAOR EN "y".
+        y++; // INCREMENTA SU VALOR EN "y".
     }
     */
 
     // COMO TODO LO DEMÁS YA ESTÁ COMENTADO, VAMOS A EJECUTAR LOS SIGUIENTES MÉTODOS AQUÍ, UTILIZANDO UNA VARIABLE DECLARADA AHÍ ARRIBA...
 
+    /*
     funcion1(vector); // CON ESTE PUNTERO NO DEVUELVE NINGÚN VALOR EN X, YA QUE DICHO PUNTERO ASOCIADO ES UNA CONSTANTE.
     cout << vector << endl; // CON UN ESPACIO DE NOMBRES, LEEREMOS EL MENSAJE FÁCILMENTE MEDIANTE ESTA LÍNEA DE CÓDIGO.
+    */
 
     // PARA LEER EL ARREGLO COMPLETO MEDIANTE DIRECCIONES DE MEMORIA EN CADA VECTOR, UTILIZAREMOS UN CICLO "for"...
+    
+    /*
     
     for (int i = 0; i < 10; i++)
     {
@@ -67,5 +82,7 @@ int main()
     }
 
     // funcion2(x); // ÉSTE SÍ DEVUELVE UN VALOR.
+
+    */
 };
 
