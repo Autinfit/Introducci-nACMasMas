@@ -16,3 +16,5 @@
 - **_Posteriormente se añadieron facilidades de programación genérica, que se sumaron a los paradigmas de programación estructurada y programación orientada a objetos._**
 
 - **_Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma._**
+
+- Actualmente existe un estándar, denominado ISO C++, al que se han adherido la mayoría de los fabricantes de compiladores más modernos.
