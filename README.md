@@ -10,6 +10,9 @@
 
 - **_En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
 
+  ![image](https://github.com/Autinfit/Introducci-nACMasMas/assets/155406623/1cdd1a57-ad29-421d-9232-d7fe17f0a79c)
+
+
 - **_Posteriormente se añadieron facilidades de programación genérica, que se sumaron a los paradigmas de programación estructurada y programación orientada a objetos._**
 
 - **_Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma._**
