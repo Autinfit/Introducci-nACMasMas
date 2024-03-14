@@ -22,3 +22,5 @@
 - **_Existen también algunos intérpretes, tales como ROOT._**
 
 - **_El nombre "C++" fue propuesto por Rick Mascitti en el año 1983, cuando el lenguaje fue utilizado por primera vez fuera de un laboratorio científico._**
+
+- Antes se había usado el nombre "C con clases".
