@@ -25,4 +25,4 @@
 
 - **_Antes se había usado el nombre "C con clases"._**
 
-- _En C++, la expresión "C++" significa "incremento de C" y se refiere a que C++ es una extensión de C._
+- **_En C++, la expresión "C++" significa "incremento de C" y se refiere a que C++ es una extensión de C._**
