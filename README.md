@@ -8,4 +8,4 @@
 
 - **_También dicho lenguaje de programación mencionado anteriormente significaría incremento de C, aprovechando que dicho lenguaje tiene el operador ++ con ese nombre._**
 
-- En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
+- _En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._
