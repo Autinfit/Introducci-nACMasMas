@@ -19,4 +19,4 @@
 
 - **_Actualmente existe un estándar, denominado ISO C++, al que se han adherido la mayoría de los fabricantes de compiladores más modernos._**
 
-- Existen también algunos intérpretes, tales como ROOT.
+- _Existen también algunos intérpretes, tales como ROOT._
