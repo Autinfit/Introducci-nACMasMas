@@ -12,4 +12,4 @@
 
 - **_Posteriormente se añadieron facilidades de programación genérica, que se sumaron a los paradigmas de programación estructurada y programación orientada a objetos._**
 
-- Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma.
+- _Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma._
