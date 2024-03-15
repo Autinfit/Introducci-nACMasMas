@@ -39,4 +39,4 @@
 
 - **_Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos._**
 
-- Permite la separación de un programa en módulos que admiten compilación independiente.
+- _Permite la separación de un programa en módulos que admiten compilación independiente._
