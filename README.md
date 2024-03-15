@@ -31,5 +31,5 @@
 
 ## Características de C++
 
-- _Su sintaxis es heredada del lenguaje C._
+- **_Su sintaxis es heredada del lenguaje C._**
 
