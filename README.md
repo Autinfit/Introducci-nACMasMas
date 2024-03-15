@@ -35,5 +35,5 @@
 
 - **_Programa orientado a objetos (POO)._**
 
-- Permite la agrupación de instrucciones.
+- _Permite la agrupación de instrucciones._
 
