@@ -1,4 +1,5 @@
 #include <iostream> // IMPORTAREMOS ESTA LIBRERÍA (MUY IMPORTANTE!!!!!)
+#include "Print.h" // LIBRERÍA DE UNA CLASE EN LA CUÁL DEBEMOS DE IMPORTARLA.
 
 // EN ESTA CLASE DEL MAIN UTILIZAREMOS ESPACIO DE NOMBRES.
 
@@ -84,5 +85,7 @@ int main()
     // funcion2(x); // ÉSTE SÍ DEVUELVE UN VALOR.
 
     */
+
+    Print("**************ERRORES DE COMPILACION!!!!!!!**************");
 };
 
