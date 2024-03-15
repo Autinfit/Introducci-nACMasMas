@@ -33,5 +33,5 @@
 
 - **_Su sintaxis es heredada del lenguaje C._**
 
-- Programa orientado a objetos (POO).
+- _Programa orientado a objetos (POO)._
 
