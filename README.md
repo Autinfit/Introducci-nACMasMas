@@ -37,4 +37,4 @@
 
 - **_Permite la agrupación de instrucciones._**
 
-- _Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos._
+- **_Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos._**
