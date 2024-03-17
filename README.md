@@ -44,3 +44,5 @@
 - **_Es un lenguaje de alto nivel._**
 
 ## Ejemplos
+
+A continuación se cita un programa de ejemplo Hola mundo escrito en C++:
