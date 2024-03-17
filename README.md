@@ -123,3 +123,5 @@ Título: "¿Preguntas?"
 Contenido:
 Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto si es necesario.
 ```
+
+Breve explicación del código
