@@ -45,4 +45,4 @@
 
 ## Ejemplos
 
-_A continuación se cita un programa de ejemplo Hola mundo escrito en C++:_
+**_A continuación se cita un programa de ejemplo Hola mundo escrito en C++:_**
