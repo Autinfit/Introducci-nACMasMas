@@ -47,6 +47,7 @@
 
 **_A continuación se cita un programa de ejemplo Hola mundo escrito en C++:_**
 
+```
 #include <iostream>
 
 Diapositiva 1: Título
@@ -121,3 +122,4 @@ Diapositiva 7: Preguntas
 Título: "¿Preguntas?"
 Contenido:
 Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto si es necesario.
+```
