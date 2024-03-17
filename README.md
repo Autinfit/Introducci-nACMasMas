@@ -46,3 +46,78 @@
 ## Ejemplos
 
 **_A continuación se cita un programa de ejemplo Hola mundo escrito en C++:_**
+
+#include <iostream>
+
+Diapositiva 1: Título
+Título: "Introducción a C++"
+Diapositiva 2: ¿Qué es C++?
+Título: "¿Qué es C++?"
+Contenido:
+C++ es un lenguaje de programación de alto nivel y general.
+Desarrollado como una extensión del lenguaje C.
+Ampliamente utilizado en desarrollo de software, sistemas operativos, videojuegos y más.
+Diapositiva 3: Estructura Básica de C++
+Título: "Estructura Básica de C++"
+Contenido:
+Encabezado:
+cpp
+Copy code
+#include <iostream>
+using namespace std;
+Función Principal:
+cpp
+Copy code
+int main() {
+    // Código principal aquí
+    return 0;
+}
+Diapositiva 4: ¿Cómo funciona el "if" en C++?
+Título: "Estructuras Condicionales: if"
+Contenido:
+Sintaxis:
+cpp
+Copy code
+if (condición) {
+    // Código si la condición es verdadera
+} else {
+    // Código si la condición es falsa
+}
+Ejemplo:
+cpp
+Copy code
+int edad = 18;
+if (edad >= 18) {
+    cout << "Eres mayor de edad." << endl;
+} else {
+    cout << "Eres menor de edad." << endl;
+}
+Diapositiva 5: Tipos de Variables en C++
+Título: "Tipos de Variables en C++"
+Contenido:
+Enteros:
+cpp
+Copy code
+int entero = 42;
+Decimales:
+cpp
+Copy code
+double decimal = 3.14;
+Caracteres:
+cpp
+Copy code
+char caracter = 'A';
+Cadenas de Texto:
+cpp
+Copy code
+string texto = "Hola, mundo!";
+Diapositiva 6: Resumen
+Título: "Resumen"
+Contenido:
+Revisamos la estructura básica de C++.
+Exploramos la estructura condicional "if" con un ejemplo.
+Conocimos diferentes tipos de variables en C++.
+Diapositiva 7: Preguntas
+Título: "¿Preguntas?"
+Contenido:
+Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto si es necesario.
