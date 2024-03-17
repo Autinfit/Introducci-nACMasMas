@@ -42,3 +42,5 @@
 - **_Permite la separación de un programa en módulos que admiten compilación independiente._**
 
 - **_Es un lenguaje de alto nivel._**
+
+Ejemplos
