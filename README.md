@@ -134,4 +134,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_C++ tiene los siguientes tipos fundamentales:_**
 
- - Caracteres: char (también es un entero), wchar_t
+ - Caracteres: char (también es un entero), ```wchar_t```
