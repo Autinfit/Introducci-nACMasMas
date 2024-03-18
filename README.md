@@ -136,4 +136,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
  - **_Caracteres: ```char``` (también es un entero),_** ```wchar_t```
  - **_Enteros:_** ```short```, ```int```, ```long```, ```long long```
- - Números en coma flotante: float, double, long double
+ - _Números en coma flotante:_ float, double, long double
