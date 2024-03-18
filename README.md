@@ -131,3 +131,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 **_La definición de funciones es igual que en C, salvo por la característica de que si ```main``` no va a recoger argumentos, no tenemos por qué ponérselos, a diferencia de C, donde había que ponerlos explícitamente, aunque no se fueran a usar. Queda solo comentar que el símbolo ```<<``` se conoce como operador de inserción, y grosso modo está enviando a ```cout``` lo que queremos mostrar por pantalla para que lo pinte, en este caso la cadena ```"Hola mundo"```. El mismo operador << se puede usar varias veces en la misma sentencia, de forma que gracias a esta característica podremos concatenar el objeto endl al final, cuyo resultado será imprimir un retorno de línea._**
 
 ## Tipos de datos
+
+C++ tiene los siguientes tipos fundamentales:
