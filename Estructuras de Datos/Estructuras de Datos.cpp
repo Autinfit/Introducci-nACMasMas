@@ -29,6 +29,13 @@ void funcion2(int a)
     // return a; // RETORNA EL VALOR DISMINUIDO DE SU INCÓGNITA.
 }
 
+void funcion3(const char* str)
+{
+    // TERCERA FUNCIÓN DE PRUEBA CON UNA SOLA VARIABLE LOCAL...
+
+    Print(str);
+}
+
 int main()
 {
     // ESTA ES LA CLASE DEL MAIN POR DEFECTO.
@@ -86,6 +93,6 @@ int main()
 
     */
 
-    Print("**************ERRORES DE COMPILACION!!!!!!!**************");
+    funcion3("**************ERRORES DE COMPILACION!!!!!!!**************");
 };
 
