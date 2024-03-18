@@ -132,4 +132,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 ## Tipos de datos
 
-_C++ tiene los siguientes tipos fundamentales:_
+**_C++ tiene los siguientes tipos fundamentales:_**
