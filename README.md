@@ -138,4 +138,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
  - **_Enteros:_** ```short```, ```int```, ```long```, ```long long```
  - **_Números en coma flotante:_** ```float```, ```double```, ```long double```
  - **_Booleanos:_** ```bool```
- - **_Vacío:_** void
+ - **_Vacío:_** ```void```
