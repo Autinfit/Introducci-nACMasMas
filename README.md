@@ -141,3 +141,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
  - **_Vacío:_** ```void```
 
 **_El modificador ```unsigned``` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales._**
+
+## Tamaños asociados
