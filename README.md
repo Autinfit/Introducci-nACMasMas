@@ -143,3 +143,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 **_El modificador ```unsigned``` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales._**
 
 ## Tamaños asociados
+
+Según la máquina y el compilador que se utilice los tipos primitivos pueden ocupar un determinado tamaño en memoria. La siguiente lista ilustra el número de bits que ocupan los distintos tipos primitivos en la arquitectura x86.
