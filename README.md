@@ -150,4 +150,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
    - **_De acuerdo al estándar C99, un tipo ```char``` debe ocupar exactamente un 'byte' compuesto de un mínimo de 8 'bits' independientemente de la arquitectura de la máquina._**
    - **_El tamaño reconocido de ```char``` es de 1. Es decir, ```sizeof(char)``` siempre devuelve 1._**
-   - **_Un tipo ```short``` tiene al menos el mismo tamaño que un tipo char._**
+   - **_Un tipo ```short``` tiene al menos el mismo tamaño que un tipo ```char```._**
