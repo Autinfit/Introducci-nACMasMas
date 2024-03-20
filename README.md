@@ -149,4 +149,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 - **_Otras arquitecturas pueden requerir distintos tamaños de tipos de datos primitivos. C++ no dice nada acerca de cuál es el número de bits en un byte, ni del tamaño de estos tipos; más bien, ofrece solamente las siguientes "garantías de tipos":_**
 
    - **_De acuerdo al estándar C99, un tipo ```char``` debe ocupar exactamente un 'byte' compuesto de un mínimo de 8 'bits' independientemente de la arquitectura de la máquina._**
-   - _El tamaño reconocido de char es de 1. Es decir, sizeof(char) siempre devuelve 1._
+   - **_El tamaño reconocido de char es de 1. Es decir, sizeof(char) siempre devuelve 1._**
