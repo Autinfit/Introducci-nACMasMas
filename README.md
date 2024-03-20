@@ -152,4 +152,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
    - **_El tamaño reconocido de ```char``` es de 1. Es decir, ```sizeof(char)``` siempre devuelve 1._**
    - **_Un tipo ```short``` tiene al menos el mismo tamaño que un tipo ```char```._**
    - **_Un tipo ```long``` tiene al menos el doble tamaño en bytes que un tipo ```short```._**
-   - **_Un tipo ```int``` tiene un tamaño entre el de short y el de long, ambos incluidos, preferentemente el tamaño de un apuntador de memoria de la máquina. Su valor máximo es 2147483647, usando 32 bits._**
+   - **_Un tipo ```int``` tiene un tamaño entre el de ```short``` y el de long, ambos incluidos, preferentemente el tamaño de un apuntador de memoria de la máquina. Su valor máximo es 2147483647, usando 32 bits._**
