@@ -153,3 +153,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
    - **_Un tipo ```short``` tiene al menos el mismo tamaño que un tipo ```char```._**
    - **_Un tipo ```long``` tiene al menos el doble tamaño en bytes que un tipo ```short```._**
    - **_Un tipo ```int``` tiene un tamaño entre el de ```short``` y el de ```long```, ambos incluidos, preferentemente el tamaño de un apuntador de memoria de la máquina. Su valor máximo es 2147483647, usando 32 bits._**
+   - Un tipo unsigned tiene el mismo tamaño que su versión signed.
