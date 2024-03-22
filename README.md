@@ -162,3 +162,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
  - ```strcpy - wstrcpy```
  - ```std::string - std::wstring```
  - ```std::cout - std::wcout```
+
+Cabe resaltar que en C se define wchar_t como:
