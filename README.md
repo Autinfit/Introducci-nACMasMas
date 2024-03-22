@@ -161,4 +161,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
  - ```strcpy - wstrcpy```
  - ```std::string - std::wstring```
- - std::cout - std::wcout
+ - ```std::cout - std::wcout```
