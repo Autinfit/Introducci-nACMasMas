@@ -165,4 +165,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Cabe resaltar que en C se define ```wchar_t``` como:_**
 
-typedef unsigned short wchar_t;
+```typedef unsigned short wchar_t;```
