@@ -173,4 +173,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 _La palabra reservada ```void``` define en C++ el concepto de no existencia o no atribución de un tipo en una variable o declaración. Es decir, una función declarada como ```void``` no devolverá ningún valor. Esta palabra reservada también puede usarse para indicar que una función no recibe parámetros, como en la siguiente declaración:_
 
-int funcion (void);
+```int funcion (void);```
