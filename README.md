@@ -168,3 +168,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 ```typedef unsigned short wchar_t;```
 
 **_Mientras que en C++ es en sí mismo un tipo de dato._**
+
+La palabra reservada "void"
