@@ -169,4 +169,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Mientras que en C++ es en sí mismo un tipo de dato._**
 
-La palabra reservada "void"
+### La palabra reservada "void"
