@@ -175,4 +175,4 @@ _La palabra reservada ```void``` define en C++ el concepto de no existencia o no
 
 ```int funcion (void);```
 
-Aunque la tendencia actual es la de no colocar la palabra "void".
+_Aunque la tendencia actual es la de no colocar la palabra "void"._
