@@ -183,4 +183,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Cabe destacar que void no es un tipo. Una función como la declarada anteriormente no puede retornar un valor por medio de return: la palabra clave va sola. No es posible una declaración del tipo:_**
 
-void t; //Está mal
+```void t; //Está mal```
