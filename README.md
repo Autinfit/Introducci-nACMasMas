@@ -180,3 +180,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 **_Además se utiliza para determinar que una función no retorna un valor, como en:_**
 
 ```void funcion (int parametro);```
+
+Cabe destacar que void no es un tipo. Una función como la declarada anteriormente no puede retornar un valor por medio de return: la palabra clave va sola. No es posible una declaración del tipo:
