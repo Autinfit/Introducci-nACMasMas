@@ -176,3 +176,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 ```int funcion (void);```
 
 **_Aunque la tendencia actual es la de no colocar la palabra "void"._**
+
+Además se utiliza para determinar que una función no retorna un valor, como en:
