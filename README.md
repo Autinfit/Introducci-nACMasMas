@@ -179,4 +179,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Además se utiliza para determinar que una función no retorna un valor, como en:_**
 
-void funcion (int parametro);
+```void funcion (int parametro);```
