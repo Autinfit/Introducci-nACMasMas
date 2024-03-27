@@ -189,4 +189,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Sin embargo, la forma especial ```void *``` indica que el tipo de datos es un puntero. Por ejemplo:_**
 
-void *memoria;
+```void *memoria;```
