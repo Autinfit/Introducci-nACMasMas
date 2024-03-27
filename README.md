@@ -187,4 +187,4 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_En este sentido, ```void``` se comporta de forma ligeramente diferente a como lo hace en C, especialmente en cuanto a su significado en declaraciones y prototipos de funciones._**
 
-_Sin embargo, la forma especial void * indica que el tipo de datos es un puntero. Por ejemplo:_
+**_Sin embargo, la forma especial void * indica que el tipo de datos es un puntero. Por ejemplo:_**
