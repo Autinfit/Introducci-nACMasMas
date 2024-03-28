@@ -207,3 +207,5 @@ char caracter = NULL;
 ```
 
 **_El valor de las variables anteriores nos daría 0. A diferencia de la variable "caracter", que nos daría el equivalente a NULL, '\0', para caracteres._**
+
+Para evitar ambigüedad en funciones sobrecargadas, puede emplearse la palabra clave nullptr. Esta palabra clave siempre representa un puntero. Por ejemplo:
