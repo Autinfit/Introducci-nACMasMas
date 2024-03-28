@@ -198,3 +198,8 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 **_Además de los valores que pueden tomar los tipos anteriormente mencionados, existe un valor llamado NULL, sea el caso numérico para los enteros, carácter para el tipo char, cadena de texto para el tipo string, etc. El valor NULL, expresa, por lo regular, la representación de una Macro, asignada al valor "0"._**
 
 **_Tenemos entonces que:_**
+
+void* puntero = NULL;
+int entero = NULL;
+bool boleana = NULL;
+char caracter = NULL;
