@@ -199,7 +199,9 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 
 **_Tenemos entonces que:_**
 
+```
 void* puntero = NULL;
 int entero = NULL;
 bool boleana = NULL;
 char caracter = NULL;
+```
