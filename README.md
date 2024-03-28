@@ -206,4 +206,4 @@ bool boleana = NULL;
 char caracter = NULL;
 ```
 
-El valor de las variables anteriores nos daría 0. A diferencia de la variable "caracter", que nos daría el equivalente a NULL, '\0', para caracteres.
+_El valor de las variables anteriores nos daría 0. A diferencia de la variable "caracter", que nos daría el equivalente a NULL, '\0', para caracteres._
