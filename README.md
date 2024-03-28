@@ -194,3 +194,5 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
 **_Indica que ```memoria``` es un puntero a "alguna parte", donde se guarda información de algún tipo. El programador es responsable de definir estos "algún", eliminando toda ambigüedad. Una ventaja de la declaración "void *" es que puede representar a la vez varios tipos de datos, dependiendo de la operación de cast escogida. La memoria que hemos apuntado en alguna parte, en el ejemplo anterior, bien podría almacenar un entero, un flotante, una cadena de texto o un programa, o combinaciones de estos. Es responsabilidad del programador recordar qué tipo de datos hay y garantizar el acceso adecuado._**
 
 ### La palabra "NULL"
+
+Además de los valores que pueden tomar los tipos anteriormente mencionados, existe un valor llamado NULL, sea el caso numérico para los enteros, carácter para el tipo char, cadena de texto para el tipo string, etc. El valor NULL, expresa, por lo regular, la representación de una Macro, asignada al valor "0".
