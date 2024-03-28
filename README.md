@@ -210,6 +210,7 @@ char caracter = NULL;
 
 **_Para evitar ambigüedad en funciones sobrecargadas, puede emplearse la palabra clave nullptr. Esta palabra clave siempre representa un puntero. Por ejemplo:_**
 
+```
 void f(int a);
 void f(foo *a);
 
@@ -218,3 +219,4 @@ int main(int argc, char** argv) {
         f(nullptr); // Se ejecuta f(foo *a)
         return 0;
 }
+```
