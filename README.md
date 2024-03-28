@@ -209,3 +209,12 @@ char caracter = NULL;
 **_El valor de las variables anteriores nos daría 0. A diferencia de la variable "caracter", que nos daría el equivalente a NULL, '\0', para caracteres._**
 
 **_Para evitar ambigüedad en funciones sobrecargadas, puede emplearse la palabra clave nullptr. Esta palabra clave siempre representa un puntero. Por ejemplo:_**
+
+void f(int a);
+void f(foo *a);
+
+int main(int argc, char** argv) {
+        f(NULL); // Se ejecuta f(int a)
+        f(nullptr); // Se ejecuta f(foo *a)
+        return 0;
+}
