@@ -6,7 +6,7 @@
 
 - **_C++ es un lenguaje de alto nivel compilado que fue desarrollado en 1980 por el ingeniero escandinavo Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C._**
 
-- **_También dicho lenguaje de programación mencionado anteriormente significaría incremento de C, aprovechando que dicho lenguaje tiene el operador ++ con ese nombre._**
+- **_También dicho lenguaje de programación mencionado anteriormente significaría incremento de C, aprovechando que dicho lenguaje tiene el operador ++ con ese  mismo nombre._**
 
 - **_En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
 
