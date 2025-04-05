@@ -43,7 +43,7 @@
 
 - **_Es un lenguaje de alto nivel._**
 
-## Ejemplos
+## _Ejemplos_
 
 **_A continuación se cita un programa de ejemplo Hola mundo escrito en C++:_**
 
