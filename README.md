@@ -1,4 +1,4 @@
-# IntroducciónAC++
+# Introducción en C++
 
 **_Antes de comenzar..._**
 
