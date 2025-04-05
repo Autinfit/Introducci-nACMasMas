@@ -1,4 +1,4 @@
-# _Introducción en C++_
+# **_Introducción en C++_**
 
 **_Antes de comenzar..._**
 
