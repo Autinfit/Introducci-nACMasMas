@@ -29,7 +29,7 @@
 
 ![image](https://github.com/Autinfit/Introducci-nACMasMas/assets/155406623/7dde6dd7-cd13-406a-b09d-8d8e070e89c2)
 
-## Características de C++
+## _Características de C++_
 
 - **_Su sintaxis es heredada del lenguaje C._**
 
