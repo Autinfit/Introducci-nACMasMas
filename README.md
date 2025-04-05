@@ -1,6 +1,6 @@
 # IntroducciónACMasMas
 
-**_Para comenzar..._**
+**Antes de comenzar..._**
 
 ## Qué es un lenguaje de programación en C++?
 
