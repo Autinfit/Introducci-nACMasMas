@@ -4,7 +4,7 @@
 
 ## **_Qué es un lenguaje de programación en C++?_**
 
-- **_C++ es un lenguaje de alto nivel compilado que fue desarrollado en 1980 por el ingeniero escandinavo Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C._**
+- **_C++ es un lenguaje de alto nivel compilado que fue desarrollado en 1980 por el ingeniero escandinavo Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje en C._**
 
 - **_También dicho lenguaje de programación mencionado anteriormente significaría incremento de C, aprovechando que dicho lenguaje tiene el operador ++ con ese  mismo nombre._**
 
