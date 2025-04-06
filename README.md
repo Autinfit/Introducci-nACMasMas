@@ -155,7 +155,7 @@ Invita a la audiencia a hacer preguntas y proporciona tus detalles de contacto s
    - **_Un tipo ```int``` tiene un tamaño entre el de ```short``` y el de ```long```, ambos incluidos, preferentemente el tamaño de un apuntador de memoria de la máquina. Su valor máximo es 2147483647, usando 32 bits._**
    - **_Un tipo ```unsigned``` tiene el mismo tamaño que su versión ```signed```._**
  
-### _Wchar_t_
+### **_Wchar_t_**
 
 **_Para la versión del estándar que se publicó en 1998, se decidió añadir el tipo de dato wchar_t, que permite el uso de caracteres UNICODE, a diferencia del tradicional ```char```, que contempla simplemente al código de caracteres ASCII extendido. A su vez, se ha definido para la mayoría de las funciones y clases, tanto de C como de C++, una versión para trabajar con ```wchar_t```, donde usualmente se prefija el carácter w al nombre de la función (en ocasiones el carácter es un infijo). Por ejemplo:_**
 
